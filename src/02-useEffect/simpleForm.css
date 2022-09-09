@@ -1,0 +1,11 @@
+.formDiv {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    min-width: 320px;
+}
+
+
+.formDiv input {
+    margin-bottom: 10px;
+}
